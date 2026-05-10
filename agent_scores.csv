@@ -1,5 +1,4 @@
 timestamp,composite_score,macro_score,sentiment_score,orderflow_score,gamma_score,master_regime,regime_numeric,long_bias,short_bias,high_conviction,stand_aside
-2026-05-07T18:09:35Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
 2026-05-07T18:10:38Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
 2026-05-07T18:11:41Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
 2026-05-07T18:12:44Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
@@ -4104,3 +4103,4 @@ timestamp,composite_score,macro_score,sentiment_score,orderflow_score,gamma_scor
 2026-05-10T18:07:07Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
 2026-05-10T18:08:11Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
 2026-05-10T18:09:14Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
+2026-05-10T18:10:16Z,31.46,57.29,14.59,24.76,20.0,MILD_RISK_ON,1,1,0,0,0
